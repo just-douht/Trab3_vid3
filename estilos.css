@@ -19,6 +19,7 @@ input, textarea {
     border: 1px solid #ccc;
 }
 
-input:focus {
-    border:1px solid #1668C4;
+input:focus, textarea:focus {
+    border: 1px solid #1668C4;
+    outline: none;
 }
