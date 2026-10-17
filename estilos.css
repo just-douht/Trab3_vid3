@@ -4,3 +4,9 @@ form{
     padding:20px;
     margin:20px;
 }
+
+label{
+    font-size: 12px;
+    display: block;
+    width: 100%;
+}
