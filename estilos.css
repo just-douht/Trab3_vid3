@@ -10,3 +10,8 @@ label{
     display: block;
     width: 100%;
 }
+
+input{
+    margin-bottom: 20px;
+    width: 100%;
+}
